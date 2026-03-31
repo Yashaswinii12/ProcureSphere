@@ -140,6 +140,6 @@ public class OrderService {
                 .createdAt(o.getCreatedAt())
                 .items(itemResponses)
                 .build();
-        return null;
+
     }
 }
